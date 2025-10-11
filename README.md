@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Yueyi Sun
+- ✨ I’m an undergraduate student in Grade 2022, Beijing Institute of Technology(BIT).
+- 🔭 I’m currently working on Pixel-level MLLM.
+- 🌱 I'm currently an intern at ByteDance.
+- 🔭 I will become a PhD Candidate by 2026, at SIST, Peking University(PKU).
+- 📫 How to reach
+   - 📧(e-mail): sunyueyi2004@bit.edu.cn
+   - 📧(e-mail): sunyueyi@bytedance.com
 
 <!--
 **bitersun/bitersun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
