@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yueyi Sun
 - ✨ I’m an undergraduate student in Grade 2022, Beijing Institute of Technology(BIT).
-- 🔭 I’m currently working on Pixel-level MLLM.
+- 🔭 I’m currently working on Pixel-level MLLMs and diffusion large language models(dLLMs).
 - 🌱 I'm currently an intern at ByteDance.
 - 🔭 I will become a PhD Candidate by 2026, at SIST, Peking University(PKU).
 - 📫 How to reach
